@@ -25,8 +25,8 @@ This repository contains scripts for automated evaluation of ASR models on [Next
 | File                          | Description                                                  |
 |-------------------------------|--------------------------------------------------------------|
 | `ZA_African_Next_Voices_benchmarking.ipynb` | Notebook used for model inference and evaluation |
-| `asr_language_support_matrix.csv`           | CSV matrix of ASR model support across African languages |
-| `hf_asr_scraper.py`                         | Script to scrape Hugging Face for ASR model metadata      |
+| `asr_language_support_matrix.csv`           | CSV matrix of ASR model support across selected African languages |
+| `hf_asr_scraper.py`                         | Script to scrape Hugging Face for ASR model support      |
 
 ## 🔧 Dependencies
 This project uses:
