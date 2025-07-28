@@ -2,11 +2,11 @@
 
 This repository contains scripts for automated evaluation of ASR models on [Next Voices Africa](https://huggingface.co/datasets/dsfsi-anv/za-african-next-voices) dataset.
 
-## ✅ Evaluated Languages and Models
+## ✅ Evaluated Languages and Models (WER/CER %)
 
 | Language   | MMS-1B-All | MMS-1B-FL102 | MMS-1B-L1107 | SeamlessM4T | Whisper | Xeus |
 |------------|------------|--------------|--------------|-------------|---------|------|
-| Zulu       | ✅          | ✅            | ⚠️[^1]      |   ⏳        | ❌      |  ⏳    |
+| Zulu       | 39.30/8.73 | 40.47/9.53   | ⚠️[^1]       |   ⏳        | ❌      |  ⏳    |
 | Luo        |            |              |              |             | ❌      |      |
 | Kikuyu     |            |              |              |             | ❌      |      |
 | Yoruba     |            |              |              |             |         |      |
